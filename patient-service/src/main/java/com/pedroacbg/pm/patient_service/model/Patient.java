@@ -35,6 +35,6 @@ public class Patient {
 
     @NotNull
     @CreationTimestamp
-    private LocalDate registrationDate;
+    private LocalDate registeredDate;
 
 }
